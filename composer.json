@@ -1,0 +1,21 @@
+{
+    "name": "kaikaige/tools",
+    "description": "tools",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","51dh3.0","tools"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "kaikaige",
+            "email": "396929174@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "kaikaige\\tools\\": ""
+        }
+    }
+}
