@@ -10,9 +10,6 @@
             "email": "396929174@qq.com"
         }
     ],
-    "require": {
-        "yiisoft/yii2": "*"
-    },
     "autoload": {
         "psr-4": {
             "kaikaige\\tools\\": ""
